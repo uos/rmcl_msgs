@@ -56,6 +56,9 @@ add_message_files(
         Scan.msg
         ScanStamped.msg
         PolarCoord.msg
+        DepthInfo.msg
+        Depth.msg
+        DepthStamped.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
