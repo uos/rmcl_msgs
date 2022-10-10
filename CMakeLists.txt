@@ -52,13 +52,24 @@ add_message_files(
     DIRECTORY 
         msg
     FILES
+        PolarCoord.msg
+        RangeData.msg
+        # Spherical
         ScanInfo.msg
         Scan.msg
         ScanStamped.msg
-        PolarCoord.msg
+        # Pinhole
         DepthInfo.msg
         Depth.msg
         DepthStamped.msg
+        # O1Dn
+        O1DnInfo.msg
+        O1Dn.msg
+        O1DnStamped.msg
+        # OnDn
+        OnDnInfo.msg
+        OnDn.msg
+        OnDnStamped.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
