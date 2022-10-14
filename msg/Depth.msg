@@ -1,2 +1,2 @@
 DepthInfo info
-float32[] ranges
+RangeData data

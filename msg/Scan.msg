@@ -1,2 +1,2 @@
-ScanInfo info
-float32[] ranges
+ScanInfo  info
+RangeData data

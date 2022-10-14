@@ -1,2 +1,2 @@
-O1DnInfo info
-float32[] ranges
+O1DnInfo  info
+RangeData data
